@@ -18,7 +18,7 @@ Bem-vindo à Mathjs! Este é um projeto desenvolvido com HTML, CSS e JavaScript,
 
 
 
-![preview](https://github.com/Leandrolxl/Beautysaloon/assets/103611307/e0870bb8-4676-42c0-8fad-0214df2103da)
+![preview_mathjs](https://github.com/Leandrolxl/MathJs/assets/103611307/fc4cb6f5-ccae-452d-bf35-349b66ac9a99)
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
